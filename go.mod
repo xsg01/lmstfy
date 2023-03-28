@@ -34,8 +34,7 @@ require (
 	github.com/spf13/viper v1.0.2
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go v0.0.0-20180112141927-9831f2c3ac10 // indirect
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7 // indirect
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
